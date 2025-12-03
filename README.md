@@ -2,6 +2,7 @@
 
 > **Hinweis:** Dieses Projekt wurde ursprünglich im **[Februar 2025]** entwickelt und nun für Portfolio-Zwecke auf GitHub veröffentlicht.
 
+
 **AI Sudoku Solver Pro** ist eine hochperformante Desktop-Anwendung, die Sudoku-Rätsel nicht nur generiert, sondern den Lösungsprozess mithilfe von **Künstlicher Intelligenz (AI)** und dem **Backtracking-Algorithmus** in Echtzeit visualisiert.
 
 Dieses Projekt demonstriert die praktische Anwendung komplexer Algorithmen, logischer Problemlösung und moderner GUI-Entwicklung mit Python.
